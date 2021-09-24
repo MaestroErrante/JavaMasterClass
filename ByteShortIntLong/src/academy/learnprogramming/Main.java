@@ -11,5 +11,7 @@ public class Main {
 
         System.out.println("Integer Minimum Value = " + myMinIntValue);
         System.out.println("Integer Maximun Value = " + myMaxIntValue);
+        System.out.println("Busted MAX value = " + (myMaxIntValue + 1));
+        System.out.println("Busted MIN value = " + (myMinIntValue - 1));
     }
 }
