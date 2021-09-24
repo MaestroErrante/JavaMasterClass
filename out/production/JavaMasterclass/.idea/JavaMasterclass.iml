@@ -9,6 +9,21 @@
       <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HelloWorld/.idea" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HelloWorld/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/academy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/academy/learnprogramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong/out/production" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong/out/production/ByteShortIntLong" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong/out/production/ByteShortIntLong/academy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteShortIntLong/out/production/ByteShortIntLong/academy/learnprogramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HelloWorld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HelloWorld/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HelloWorld/out/production" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HelloWorld/out/production/HelloWorld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/academy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/academy/learnprogramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendors" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
