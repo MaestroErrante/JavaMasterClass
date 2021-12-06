@@ -92,7 +92,6 @@ public class Operators {
         if (!isNoRemainder) {
             System.out.println("Got some remainder");
         }
-
     }
 
 }
