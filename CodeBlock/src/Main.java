@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main (String[] args) {
-        boolean gameOver = false;
+        boolean gameOver = true;
         int score = 800;
         int levelCompleted = 5;
         int bonus = 100;
@@ -17,16 +17,28 @@ public class Main {
         if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
             System.out.println("Your final score was " + finalScore);
-        } else {
-            score = 1000;
-            levelCompleted = 8;
-            bonus = 200;
+        }
+//        else {
+//            score = 1000;
+//            levelCompleted = 8;
+//            bonus = 200;
+//
+//            int finalScore = score + (levelCompleted * bonus);
+//            System.out.println("Your final score was " + finalScore);
+//
+//        }
 
+        //Solution
+
+        gameOver = true;
+        score = 100;
+        levelCompleted = 8;
+        bonus = 200;
+
+        if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
             System.out.println("Your final score was " + finalScore);
-
         }
-
 
     }
 
