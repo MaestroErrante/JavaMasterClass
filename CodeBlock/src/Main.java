@@ -33,7 +33,7 @@ public class Main {
         gameOver = true;
         score = 100;
         levelCompleted = 8;
-        bonus = 200;
+        bonus = 200 ;
 
         if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
